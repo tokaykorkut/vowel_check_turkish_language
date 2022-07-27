@@ -1,4 +1,4 @@
-# Question
+# Question 
 
 We want you to make a function which checks if the given word has major vowel harmony. According to TDK, in a word, hard vowels (`a`, `ı`, `o`, `u`) must be followed by hard vowels and soft vowels (`e`, `i`, `ö`, `ü`) must be followed by soft vowels.
 
